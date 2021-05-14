@@ -1,0 +1,16 @@
+.column{
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    height: 80px;
+}
+.column1{
+    float: left;
+    width: 20%;
+    padding: 10px;
+    height: 80px;
+}
+.service-choice {
+    margin-right: 10px;
+}
+
